@@ -4,3 +4,4 @@ nltk
 joblib
 matplotlib
 seaborn
+flask
